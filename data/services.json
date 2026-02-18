@@ -1,0 +1,28 @@
+{
+  "items": [
+    {
+      "id": "legal-regulatory-advisory",
+      "title": "Legal & Regulatory Advisory",
+      "intro": "We provide corporate legal consulting that supports sound governance, compliance, and risk management.",
+      "content": "<p>Services include:</p><ul><li>Corporate structuring and governance advisory</li><li>Commercial contract advisory</li><li>Regulatory compliance consulting</li><li>Partnership and joint venture advisory</li><li>Policy and framework development</li><li>Legal risk assessments</li><li>Facilitator and transactional advisory support</li></ul><p>Note: Specialist litigation or legal representation is coordinated with partner attorneys when required.</p>"
+    },
+    {
+      "id": "financial-transaction-advisory",
+      "title": "Financial & Transaction Advisory",
+      "intro": "Our financial advisory services support business sustainability, investment readiness, and transactional clarity.",
+      "content": "<p>Services include:</p><ul><li>Financial structuring advisory</li><li>Capital readiness and funding preparation</li><li>Commercial transaction consulting</li><li>Due diligence coordination</li><li>Investment and partnership advisory</li><li>Business valuation support</li></ul>"
+    },
+    {
+      "id": "business-consulting-strategy",
+      "title": "Business Consulting & Strategy",
+      "intro": "We help organizations build strong foundations for growth and operational excellence.",
+      "content": "<p>Services include:</p><ul><li>Business model design and review</li><li>Strategic planning</li><li>Market positioning advisory</li><li>Operational efficiency consulting</li><li>Business process improvement</li><li>Growth and scaling advisory</li><li>Entrepreneur and SMME support</li></ul>"
+    },
+    {
+      "id": "professional-training-capacity-development",
+      "title": "Professional Training & Capacity Development",
+      "intro": "We deliver practical, industry-relevant training that strengthens organizational capability.",
+      "content": "<p>Training areas include:</p><ul><li>Corporate governance and compliance</li><li>Commercial awareness</li><li>Legal and regulatory fundamentals for business</li><li>Risk management principles</li><li>Professional development workshops</li><li>Customized corporate training programs</li></ul>"
+    }
+  ]
+}
